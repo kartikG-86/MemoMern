@@ -1,4 +1,4 @@
-# NoteNest
+# Memomern
 
 Memomern is a full-stack web application that allows users to easily manage and organize their notes. With a user-friendly interface, NoteNest enables users to sign up, log in, and create, edit, and delete notes seamlessly. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, NoteNest provides a robust and efficient solution for note-taking needs.
 
